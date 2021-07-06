@@ -78,9 +78,9 @@ _4.1 Basic App using Android studio_
 
 _4.1.1 Create new android project_
 
-_4.1.2 Write message and run _
+_4.1.2 Write message and run_
 
-_4.1.3 Understanding different components. _
+_4.1.3 Understanding different components._
 
 _4.2 Dalvik Virtual Machine (DVM)_
 
